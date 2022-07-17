@@ -1,4 +1,4 @@
-let currentForecast = "https://api.weatherapi.com/v1/current.json?key=49c4c30fad944ae69ac180015221607&q="
+let currentForecast = "https://api.weatherapi.com/v1/current.json?key=<API_KEY>&q="
 
 const city = document.querySelector("#city");
 const forecast = document.querySelector("#forecast");
